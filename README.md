@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/code-shadow-portrait.svg" width="100%" alt="Code-shadow portrait artwork made for Rakibul" />
+  <img src="./assets/code-shadow-banner.jpg" width="100%" alt="Code-shadow portrait artwork made for Rakibul" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ I'm **Rakibul Hasan Utsho**, a full-stack web developer who enjoys turning ideas
 ## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,git,github,vercel&perline=8" alt="JavaScript, TypeScript, React, Next.js, Tailwind, Node, Express, MongoDB, PostgreSQL, Redis, Git, GitHub and Vercel" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,docker,threejs,gsap,git,github,vercel,vitest&perline=8" alt="JavaScript, TypeScript, React, Next.js, Tailwind, Node, Express, MongoDB, PostgreSQL, Redis, Git, GitHub and Vercel" />
 </p>
 
 <p align="center">
@@ -48,6 +48,10 @@ I'm **Rakibul Hasan Utsho**, a full-stack web developer who enjoys turning ideas
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/WebAuthn%20%2F%20Passkeys-0F766E?style=for-the-badge&logo=webauthn&logoColor=white" alt="WebAuthn and passkeys" />
   <img src="https://img.shields.io/badge/QR%20Code-334155?style=for-the-badge&logo=qrcode&logoColor=white" alt="QR code workflows" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111827" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 </p>
 
 ### 📚 Learning by building
