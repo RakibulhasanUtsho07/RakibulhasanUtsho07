@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RakibulhasanUtsho07&label=PROFILE%20VISITORS&color=0891b2&style=for-the-badge" alt="Profile visitor counter" />
   <img src="https://img.shields.io/github/followers/RakibulhasanUtsho07?label=FOLLOWERS&style=for-the-badge&color=0f766e" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/RakibulhasanUtsho07?label=TOTAL%20STARS&style=for-the-badge&color=7c3aed" alt="GitHub stars" />
 </p>
 
 ---
