@@ -61,6 +61,10 @@
     <path d="M264 379 L318 392 L330 453 L275 469 Z M517 391 L569 374 L592 465 L531 452 Z" fill="#0f172a" stroke="#f8fafc" stroke-width="4"/>
     <path d="M275 469 L330 453 L330 512 L282 522 Z M531 452 L592 465 L584 514 L536 511 Z" fill="#0f172a" stroke="#f8fafc" stroke-width="4"/>
   </g>
+  <g clip-path="url(#portrait)" opacity=".62">
+    <rect x="95" y="25" width="650" height="600" fill="url(#code)" opacity=".66"/>
+    <rect x="95" y="25" width="650" height="600" fill="url(#tinycode)" opacity=".35"/>
+  </g>
   <path d="M305 235 C285 200 284 151 306 108 C331 57 382 37 432 44 C486 50 517 91 522 145 C526 181 520 211 504 237 L536 276 L599 318 C630 342 651 379 666 426 L710 600 L125 600 L176 432 C190 383 215 347 250 324 L306 286 Z" fill="none" stroke="url(#cyan)" stroke-width="3" opacity=".9" filter="url(#glow)"/>
   <g font-family="monospace" font-size="16">
     <text x="730" y="205" fill="#67e8f9">const developer = {</text>
