@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/code-shadow-portrait.jpg" width="100%" alt="Code-shadow portrait artwork made for Rakibul" />
+  <img src="./assets/code-shadow-portrait.svg" width="100%" alt="Code-shadow portrait artwork made for Rakibul" />
 </p>
 
 <p align="center">
