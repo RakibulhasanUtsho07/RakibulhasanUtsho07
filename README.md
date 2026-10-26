@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/code-shadow-banner.jpg" width="100%" alt="Code-shadow portrait artwork made for Rakibul" />
+  <img src="./assets/code-shadow-banner.jpg" width="100%" alt="Photo-inspired portrait of Rakibul rendered as cyan and amber programming characters" />
 </p>
 
 <p align="center">
@@ -36,14 +36,13 @@ I'm **Rakibul Hasan Utsho**, a full-stack web developer who enjoys turning ideas
 ## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,docker,threejs,gsap,git,github,vercel,vitest&perline=8" alt="JavaScript, TypeScript, React, Next.js, Tailwind, Node, Express, MongoDB, PostgreSQL, Redis, Git, GitHub and Vercel" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,docker,threejs,gsap,git,github,vercel,vitest&perline=8" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind, Node.js, Express, MongoDB, PostgreSQL, Redis, Docker, Three.js, GSAP, Git, GitHub, Vercel and Vitest" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/Hero%20UI-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Hero UI" />
   <img src="https://img.shields.io/badge/Motion%20%2F%20Framer%20Motion-7C3AED?style=for-the-badge&logo=framer&logoColor=white" alt="Motion and Framer Motion" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111827" alt="GSAP" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/WebAuthn%20%2F%20Passkeys-0F766E?style=for-the-badge&logo=webauthn&logoColor=white" alt="WebAuthn and passkeys" />
@@ -61,7 +60,8 @@ These are technologies and practices I'm exploring through projects—not a clai
 - **Modern full-stack patterns:** Next.js, React, TypeScript and reusable UI systems.
 - **Data and asynchronous work:** PostgreSQL, Redis and BullMQ alongside MongoDB-backed APIs.
 - **Authentication and application security:** passkeys/WebAuthn, session flows and safer API design.
-- **Interactive UI:** Motion/Framer Motion, GSAP and QR-based experiences.
+- **Interactive UI and 3D:** Motion/Framer Motion, GSAP, Three.js and QR-based experiences.
+- **Developer tooling:** Docker for reproducible development environments and container workflows.
 - **Engineering discipline:** automated tests, type checking, linting and production build validation.
 
 ---
