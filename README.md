@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/code-shadow-banner.jpg" width="100%" alt="Photo-inspired portrait of Rakibul rendered as cyan and amber programming characters" />
+  <img src="./assets/code-shadow-portrait-final.svg" width="100%" alt="Rakibul profile photo with a restrained cyan and amber code-shadow overlay" />
 </p>
 
 <p align="center">
