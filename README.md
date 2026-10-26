@@ -36,7 +36,7 @@ I'm **Rakibul Hasan Utsho**, a full-stack web developer who enjoys turning ideas
 ## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,docker,threejs,gsap,git,github,vercel,vitest&perline=8" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind, Node.js, Express, MongoDB, PostgreSQL, Redis, Docker, Three.js, GSAP, Git, GitHub, Vercel and Vitest" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,docker,threejs,git,github,vercel&perline=8" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind, Node.js, Express, MongoDB, PostgreSQL, Redis, Docker, Three.js, Git, GitHub and Vercel" />
 </p>
 
 <p align="center">
