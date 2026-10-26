@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Rakibul Hasan Utsho — code-shadow portrait</title>
+  <desc id="desc">A stylized developer portrait formed from programming characters on a dark terminal canvas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/><stop offset=".55" stop-color="#061827"/><stop offset="1" stop-color="#030712"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/><stop offset=".5" stop-color="#06b6d4"/><stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <pattern id="code" width="150" height="32" patternUnits="userSpaceOnUse">
+      <text x="0" y="12" fill="#22d3ee" opacity=".70" font-family="monospace" font-size="10">const build = true;</text>
+      <text x="12" y="26" fill="#fbbf24" opacity=".52" font-family="monospace" font-size="9">return progress();</text>
+    </pattern>
+    <pattern id="tinycode" width="20" height="18" patternUnits="userSpaceOnUse">
+      <text x="0" y="12" font-family="monospace" font-size="9" fill="#67e8f9">01{};</text>
+    </pattern>
+    <clipPath id="portrait">
+      <path d="M305 235 C285 200 284 151 306 108 C331 57 382 37 432 44 C486 50 517 91 522 145 C526 181 520 211 504 237 L536 276 L599 318 C630 342 651 379 666 426 L710 600 L125 600 L176 432 C190 383 215 347 250 324 L306 286 Z"/>
+    </clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="600" fill="url(#bg)"/>
+  <g opacity=".28" font-family="monospace" font-size="13" fill="#0e7490">
+    <text x="28" y="50">async function createImpact() {</text><text x="48" y="72">build(); learn(); repeat();</text><text x="28" y="94">}</text>
+    <text x="650" y="70">type Developer = {</text><text x="670" y="92">curiosity: true;</text><text x="670" y="114">cleanCode: true;</text><text x="650" y="136">};</text>
+    <text x="710" y="500">while (alive) improve();</text><text x="740" y="522">git commit -m "keep building"</text>
+    <text x="40" y="540">npm run build</text><text x="70" y="562">PASS ✓  |  ship with care</text>
+  </g>
+  <g opacity=".20" stroke="#0891b2" stroke-width="1">
+    <path d="M0 170H1200M0 360H1200M0 550H1200"/><path d="M760 0V600M1000 0V600"/>
+  </g>
+  <g clip-path="url(#portrait)">
+    <rect x="95" y="25" width="650" height="600" fill="#07111f"/>
+    <rect x="95" y="25" width="650" height="600" fill="url(#code)"/>
+    <rect x="95" y="25" width="650" height="600" fill="url(#tinycode)" opacity=".42"/>
+    <path d="M305 165 C293 103 334 43 411 42 C490 40 529 96 522 164 L506 204 L486 162 L456 128 L397 140 L342 128 L320 178 Z" fill="#020617"/>
+    <path d="M315 166 C323 111 354 75 409 72 C459 70 493 105 503 155 L493 235 C487 280 462 310 423 314 C382 310 347 281 333 241 Z" fill="#b66c48" opacity=".95"/>
+    <path d="M319 166 C324 106 359 69 414 70 C464 71 500 108 506 158 L489 143 L470 123 L426 130 L383 126 L344 145 L331 184 Z" fill="#111827"/>
+    <path d="M323 176 L302 190 L307 224 L335 232" fill="#ad6748"/><path d="M496 178 L520 188 L516 218 L490 229" fill="#ad6748"/>
+    <path d="M348 184 Q371 170 394 184" fill="none" stroke="#111827" stroke-width="8" stroke-linecap="round"/>
+    <path d="M437 184 Q460 171 483 184" fill="none" stroke="#111827" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="373" cy="196" rx="8" ry="5" fill="#f8fafc"/><ellipse cx="458" cy="196" rx="8" ry="5" fill="#f8fafc"/>
+    <circle cx="375" cy="196" r="3.3" fill="#111827"/><circle cx="460" cy="196" r="3.3" fill="#111827"/>
+    <path d="M414 196 L403 235 L420 238" fill="none" stroke="#8b4d37" stroke-width="5" stroke-linecap="round"/>
+    <path d="M389 256 Q416 269 444 254 Q434 281 414 280 Q396 277 389 256" fill="#713b35"/>
+    <path d="M365 250 Q390 242 415 250 Q440 242 465 250 L455 261 Q416 273 375 262 Z" fill="#352c2b" opacity=".78"/>
+    <path d="M362 294 L360 325 L415 371 L467 324 L459 293" fill="#a35f43"/>
+    <path d="M252 324 L315 289 L357 316 L415 369 L473 313 L516 289 L594 328 L652 600 L169 600 L205 397 Z" fill="#111827"/>
+    <path d="M315 290 L357 316 L415 369 L386 426 L337 353 Z" fill="#e2e8f0"/>
+    <path d="M473 313 L415 369 L446 424 L496 353 Z" fill="#e2e8f0"/>
+    <path d="M357 316 L415 369 L389 600 L332 600 L318 393 Z" fill="#94a3b8" opacity=".85"/>
+    <path d="M473 313 L415 369 L446 600 L492 600 L504 393 Z" fill="#64748b" opacity=".65"/>
+    <path d="M252 324 L215 378 L193 600 L333 600 L337 353 L315 289" fill="#0b1220" stroke="#67e8f9" stroke-width="4"/>
+    <path d="M516 289 L594 328 L635 600 L492 600 L496 353 L473 313" fill="#0b1220" stroke="#67e8f9" stroke-width="4"/>
+    <path d="M264 379 L318 392 L330 453 L275 469 Z M517 391 L569 374 L592 465 L531 452 Z" fill="#0f172a" stroke="#f8fafc" stroke-width="4"/>
+    <path d="M275 469 L330 453 L330 512 L282 522 Z M531 452 L592 465 L584 514 L536 511 Z" fill="#0f172a" stroke="#f8fafc" stroke-width="4"/>
+  </g>
+  <path d="M305 235 C285 200 284 151 306 108 C331 57 382 37 432 44 C486 50 517 91 522 145 C526 181 520 211 504 237 L536 276 L599 318 C630 342 651 379 666 426 L710 600 L125 600 L176 432 C190 383 215 347 250 324 L306 286 Z" fill="none" stroke="url(#cyan)" stroke-width="3" opacity=".9" filter="url(#glow)"/>
+  <g font-family="monospace" font-size="16">
+    <text x="730" y="205" fill="#67e8f9">const developer = {</text>
+    <text x="758" y="236" fill="#fbbf24">name: "Rakibul Hasan Utsho",</text>
+    <text x="758" y="267" fill="#67e8f9">role: "Full-Stack Developer",</text>
+    <text x="758" y="298" fill="#67e8f9">stack: ["Next.js", "React",</text>
+    <text x="806" y="322" fill="#67e8f9">"TypeScript", "Node.js"],</text>
+    <text x="758" y="353" fill="#fbbf24">mindset: "always learning"</text>
+    <text x="730" y="384" fill="#67e8f9">};</text>
+    <text x="730" y="440" fill="#f8fafc" font-size="20">{" "}build(); learn(); ship();</text>
+    <text x="730" y="473" fill="#0e7490" font-size="13">// Better code, better tomorrow.</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="598" fill="none" stroke="#155e75" stroke-opacity=".6"/>
+</svg>
