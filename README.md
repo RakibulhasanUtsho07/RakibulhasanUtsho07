@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/code-shadow-banner.svg" width="100%" alt="Rakibul profile photo with a restrained cyan and amber code-shadow overlay" />
+  <img src="./assets/code-shadow-banner.jpg" width="100%" alt="Rakibul profile photo with a restrained cyan and amber code-shadow overlay" />
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
