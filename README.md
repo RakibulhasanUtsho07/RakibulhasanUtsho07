@@ -1,6 +1,6 @@
 <!-- Top banner -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Rakibul Hasan Utsho — Full-Stack Developer. Animated banner with a typing code snippet." />
+  <img src="./banner.svg" width="100%" alt="Rakibul Hasan Utsho — Full-Stack Developer. Animated banner with a typing code snippet." />
 </p>
 
 <p align="center">
